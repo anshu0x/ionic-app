@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { IonButton, useIonActionSheet } from '@ionic/react';
 import type { OverlayEventDetail } from '@ionic/core';
-
 import './main.css';
 
 function ActionSheet() {
